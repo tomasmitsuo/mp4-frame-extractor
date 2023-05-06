@@ -1,3 +1,9 @@
+A PARTIR DO REPOSITÓRIO DO BLACKAVEC, FORAM ADICIONADAS ALGUMAS FUNCIONALIDADES AO ALGORITMO:
+I) Tira uma quantidade arbitrária de prints 
+II) Guarda em uma pasta criada com o nome dado
+III)...
+
+
 # mp4-frame-extractor
 a simple application written in python to export a frame of video to jpeg
 
